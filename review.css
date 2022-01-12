@@ -107,3 +107,13 @@
 .boxwidth {
     width:
 }
+
+.pressed {
+    width: 6em;
+    background-color: aqua;
+    border-radius: 0.7em;
+}
+
+.heading {
+    font-family: cursive;
+}

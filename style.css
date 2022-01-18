@@ -1,4 +1,9 @@
-    .mear {
+ footer{
+     padding : 40px 0 10px;
+}
+
+
+.mear {
         height: 45px;
         width: 60%;
         margin-left: auto;
@@ -510,6 +515,7 @@
     
     .aboutus {
         padding : 2px 15px;
+        width : 70%;
     }
     
     .aboutt {
